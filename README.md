@@ -1,7 +1,7 @@
 # flexboxStudies
 My Flexbox Exercises to Study
 
-Results:
+##Results:
 
 # 1-Flex-Header
 ![header](https://github.com/eduardoslompo/flexboxStudies/blob/master/1-Flex-Header/header.png?raw=true)
@@ -17,3 +17,9 @@ Results:
 
 # 5-Flex-Layout_v2
 ![layoutv2](https://github.com/eduardoslompo/flexboxStudies/blob/master/5-Flex-Layout_v2/Layout%20v2.png?raw=true)
+
+If you want this to study you can try:
+
+```
+$ git clone https://github.com/eduardoslompo/flexboxStudies
+```
